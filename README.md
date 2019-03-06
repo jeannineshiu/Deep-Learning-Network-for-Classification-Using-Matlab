@@ -4,7 +4,7 @@ By creating and training a deep learning network.
 ## Purpose
 <img src="https://github.com/jeannineshiu/Deep-Learning-Network-for-Classification-Using-Matlab/blob/master/image/purpose.png" width = "600" height = "500" alt="purpose.png" align=center />
 
-## Data
+## Data Pretreatment
 <img src="https://github.com/jeannineshiu/Deep-Learning-Network-for-Classification-Using-Matlab/blob/master/image/split_data.png" width = "600" height = "500" alt="split_data.png" align=center />
 
 ## Results
